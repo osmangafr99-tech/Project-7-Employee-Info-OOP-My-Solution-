@@ -64,8 +64,8 @@ using namespace std;
 
 int main()
 {
-    clsEmployee Employee1(1234, "Ahmed", "Yaser", "Software Developer",
-                          "my@gmail.com", "04985948", 4500, "Epya Solutions");
+    clsEmployee Employee1(1234, "osman", "gafer", "Software Developer",
+                          "mys@gmail.com", "04985948", 4500, "Epya Solutions");
     
     Employee1.Print();
 
